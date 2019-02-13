@@ -1,0 +1,47 @@
+[
+    {
+        "role":"Lead developer",
+        "company":"SmartAngels",
+        "summary":"Develop and Manage creation of platorms to simplify relationships between investors and companies",
+        "range":"April 2016 - Present"
+    },
+    {
+        "role":"Web Developer",
+        "company":"Ensembl (ex ma-residence.fr)",
+        "summary":"Developed a social network focused on mutual-help and neighborhood using Php and Symfony",
+        "range":"June 2010 - April 2016"
+    },
+    {
+        "role":"Web Developer (Internship)",
+        "company":"Ensembl (ex ma-residence.fr)",
+        "summary":"Developed a social network focused on mutual-help and neighborhood using Php and Symfony",
+        "range":"January 2010 - June 2016"
+    },
+    {
+        "role":"SYmfony Web Developer (Freelance)",
+        "company":"Short-edition",
+        "summary":"Implemented the first version of a platform dedicated to short literature",
+        "range":"March 2010 - May 201O"
+    },
+    {
+        "role":"Web Developer (Internship)",
+        "company":"Hypios",
+        "summary":"Developed an open problem-solving service using Zend Framework and MySQL",
+        "range":"December 2008 - October 2009"
+    },
+    {
+        "role":"Web Developer (Internship)",
+        "company":"Alphadis",
+        "range":"January 2007 - March 2007"
+    },
+    {
+        "role":"Web Developer (Internship)",
+        "company":"Lafarge Ciment Antilles",
+        "range":"February 2006 - April 2006"
+    },
+    {
+        "role":"Web Developer (Internship)",
+        "company":"Multi PC",
+        "range":"May 2005 - June 2005"
+    }
+]

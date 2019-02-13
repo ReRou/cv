@@ -1,0 +1,20 @@
+[
+    {
+        "school":"Epitech",
+        "degree":"Master of Computer Science",
+        "major":"IT expertise",
+        "range":"2007 - 2010"
+    },
+    {
+        "school":"LGT Baimbridge",
+        "degree":"Technician Certificate",
+        "major":"Application development",
+        "range":"2004 - 2007"
+    },
+    {
+        "school":"LGT Baimbridge",
+        "degree":"bachelor's degree with honours",
+        "major":"Engineering science",
+        "range":"2004"
+    }
+]

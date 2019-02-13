@@ -1,0 +1,21 @@
+[
+  {
+      "grouping":"Architecture",
+      "skills":[ "PHP/ Symfony Application architecture", "RESTful APIs","Database creation and modifications","SOLID Architecture", "TDD"]
+  },{
+      "grouping":"Languages & Tools",
+      "skills":[ "php", "Symfony","Elasticsearch","git","javascript", "Redis", "MySQL", "Postgresql", "RabbitMQ", "TravisCI", "Behat"]
+  },
+  {
+      "grouping":"Platform Development & Administration",
+      "skills":[ "Linux","Apache","NGINX", "PhpStorm", "Vim", "Capistrano" ]
+  },
+  {
+    "grouping":"Containers & Cloud",
+      "skills":[ "Docker", "Vagrant" ]
+  },
+  {
+    "grouping":"Methodology & value-added",
+    "skills":[ "Strong autonomy", "Curiosity", "Team Work", "Scrum", "Kanban" ]
+  }
+]
