@@ -1,4 +1,4 @@
-baseURL = "https://rerou.netlify.com"
+baseURL = "https://regisrouyard.com"
 languageCode = "en-us"
 title = "Régis ROUYARD Resume"
 theme = "resume"
@@ -11,7 +11,7 @@ theme = "resume"
     profileImage = "img/rr.png"
     email = "regis.rouyard@gmail.com"
     description = "Backend Web Developer"
-    favicon = "images/favicon.ico"
+    favicon = "img/favicon.ico"
     # what sections
     showSkills = true
     showProjects = false
