@@ -1,7 +1,7 @@
 [
   {
       "grouping":"Architecture",
-      "skills":[ "PHP/ Symfony Application architecture", "RESTful APIs","Database creation and modifications","SOLID Architecture", "TDD"]
+      "skills":[ "PHP/ Symfony Application architecture", "RESTful APIs","Database creation and modifications","SOLID design", "TDD"]
   },{
       "grouping":"Languages & Tools",
       "skills":[ "php", "Symfony","Elasticsearch","git","javascript", "Redis", "MySQL", "Postgresql", "RabbitMQ", "TravisCI", "Behat"]
