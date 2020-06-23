@@ -1,9 +1,15 @@
 [
+   {
+        "role":"Senior backend developer",
+        "company":"Vestiaire Collective",
+        "summary":"Migrate old payment services to new Php Symfony web services and work on an e-commerce platform with > 9 000 000 users",
+        "range":"March 2020 - Present"
+    },
     {
         "role":"Fullstack Developer",
         "company":"Ouistock",
         "summary":"Develop Symfony and Reactjs applications to improve self-stockage services for individuals and professionals",
-        "range":"May 2019 - Present"
+        "range":"May 2019 - February 2020"
     },
     {
         "role":"Lead developer",
