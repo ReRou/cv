@@ -32,6 +32,10 @@ theme = "resume"
 [[params.handles]]
     name = "GitHub"
     link = "https://github.com/ReRou/"
+    
+[[params.handles]]
+    name = "Opquast"
+    link = "https://directory.opquast.com/fr/certificat/16JL9K/"
 
 license = "MIT"
 licenselink = "https://raw.githubusercontent.com/ReRou/cv/master/LICENSE"
