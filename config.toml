@@ -34,7 +34,7 @@ theme = "resume"
     link = "https://github.com/ReRou/"
     
 [[params.handles]]
-    name = "Opquast"
+    name = "Certificate"
     link = "https://directory.opquast.com/fr/certificat/16JL9K/"
 
 license = "MIT"
